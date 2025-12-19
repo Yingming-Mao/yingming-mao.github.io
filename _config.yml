@@ -26,10 +26,10 @@ author:
   # Academic websites
   academia          : 
   arxiv             : "https://arxiv.org/search/?query=Yingming+Mao&searchtype=author"
-  googlescholar     : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # 这是你原代码里的 ID，如有变更请修改
+  googlescholar     : "https://scholar.google.com/citations?user=8KoZ73UAAAAJ&hl=en" # 这是你原代码里的 ID，如有变更请修改
   inspire-hep       : 
   impactstory       : 
-  orcid             : 
+  orcid             : "https://orcid.org/my-orcid?orcid=0009-0002-3715-0961"
   semantic          : 
   ssrn              : 
   pubmed            : 
@@ -47,8 +47,7 @@ author:
   stackoverflow     : 
 
   # Social media
-  linkedin          : # "yingming-mao" (如果你有 LinkedIn 填入 ID)
-  zhihu             : # "yingming-mao"
+  zhihu             : # "在下"
   weibo             : 
   twitter           : 
 
@@ -60,6 +59,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints & Working Papers' # 专门放置你的 NSDI/INFOCOM (arXiv) 论文
 
 # Site Settings
 teaser              : 

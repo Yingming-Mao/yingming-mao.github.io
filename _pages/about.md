@@ -12,8 +12,8 @@ I am a Ph.D. student at **Xi'an Jiaotong University (XJTU)** and **Shanghai Inno
 ## News
 
 * **2025-12-10** – Co-author paper **Duonet: Learning the Duality-based Topology-Agnostic Update Operator for Lightweight Traffic Engineering in Changing Topologies** accepted to **NSDI'26** (23rd USENIX NSDI, Seattle, May 4–6, 2026). Acceptance: 100/452 (22.1%).
-* **2025-12-08** – First author paper **ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks** accepted to **IEEE INFOCOM 2026**. Acceptance: 329/1740.
-* **2025-07-14** – First author paper**A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network** accepted to **NSDI'26**. Acceptance: 50/207 (24.2%).
+* **2025-12-08** – First author paper **ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks** accepted to **IEEE INFOCOM 2026**. Acceptance: 329/1740 (18.9%).
+* **2025-07-14** – First author paper **A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network** accepted to **NSDI'26**. Acceptance: 50/207 (24.2%).
 
 ## Research Interests
 

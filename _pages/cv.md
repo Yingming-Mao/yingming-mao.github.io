@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **Ph.D. in Control Science and Engineering**, Xi'an Jiaotong University & Shanghai Institute of Intelligent Science and Technology, 2022 – Present
+* **B.E. in Automation**, Xi'an Jiaotong University, 2018 – 2022
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Ph.D. Researcher** | 2022 – Present
+  * *Focus*: AI Infrastructure, Data Center Network Optimization, and Smart Grid Management.
+  * *Key Achievement*: Developed fast solver-free algorithms for large-scale network traffic engineering.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Undergraduate Researcher** | 2018 – 2022
+  * *Focus*: Power system stability and linear power flow modeling.
+  * *Award*: Received "Outstanding Undergraduate Graduation Thesis" of Shaanxi Province.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Research Domains**
+  * AI Infrastructure (AI Infra)
+  * Data Center Networks (DCN): Traffic Engineering, Topology Engineering
+  * Power Systems: Microgrid Scheduling, Linear Power Flow Modeling
+* **Programming & Tools**
+  * Languages: Python, C++, MATLAB
+  * Tools: Git, LaTeX, PyTorch
+* **Languages**
+  * English (Professional working proficiency)
+  * Chinese (Native)
+
+Honors & Awards
+======
+
+* **Huawei Scholarship**, 2025
+* **Best Oral Presentation Award**, 5th International Conference on Frontiers of Energy and Environment Engineering (CFEEE), 2022
+* **Outstanding Undergraduate Graduation Thesis**, Shaanxi Province, 2022
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
+
 * Currently signed in to 43 different slack teams

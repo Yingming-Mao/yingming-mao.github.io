@@ -1,6 +1,7 @@
 ---
 title: "A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network"
 collection: publications
+category: preprints
 permalink: /publication/2025-nsdi-traffic
 excerpt: 'This paper proposes a fast solver-free algorithm to address TE problems in large-scale DCNs.'
 date: 2025-04-01

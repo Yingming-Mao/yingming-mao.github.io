@@ -60,7 +60,13 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+        {% assign orcid_id_or_url = author.orcid | strip %}
+        {% if orcid_id_or_url contains '://' %}
+          {% assign orcid_url = orcid_id_or_url %}
+        {% else %}
+          {% assign orcid_url = "https://orcid.org/" | append: orcid_id_or_url %}
+        {% endif %}
+        <li><a href="{{ orcid_url }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>

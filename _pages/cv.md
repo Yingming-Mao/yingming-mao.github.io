@@ -32,7 +32,7 @@ Research Projects & Collaborations
 ======
 
 * **DCN Topology & Traffic Engineering (Huawei Collaboration)** 2024.11 – 2025.03
-  * Designed the **ASDO** (Alternating Source-Destination Optimization) algorithm for fast routing in large-scale DCNs.
+  * Designed the **SSDO** (Sequential Source-Destination Optimization) algorithm for fast routing in large-scale DCNs.
   * Achieved 60%+ reduction in MLU compared to non-deep learning methods while maintaining significant speed advantages.
 
 * **AI Training GPU Mapping (Huawei Collaboration)** 2024.09 – 2025.03

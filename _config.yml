@@ -3,10 +3,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yingming Mao (茅英明)"
+title                    : "Yingming Mao's Home Page" # 搜索引擎显示的蓝色标题
+name                     : "Yingming Mao (茅英明)"    # 侧边栏显示的姓名
 title_separator          : "-"
-name                     : &name "Yingming Mao"
-description              : &description "Ph.D. Student in AI Infra & Control Science at XJTU/SII"
+description              : "Yingming Mao (茅英明) - Ph.D. Student in AI Infra & Control Science at XJTU/SII"
 url                      : "https://yingming-mao.github.io" 
 baseurl                  : "" 
 repository               : "Yingming-Mao/yingming-mao.github.io"
@@ -14,9 +14,9 @@ repository               : "Yingming-Mao/yingming-mao.github.io"
 # Site Author - Controls the Sidebar
 author:
   # Biographic information
-  avatar            : "bio-photo.jpg" # 确保在 images/ 文件夹下有这张照片
+  avatar            : "bio-photo.jpg" 
   name              : "Yingming Mao (茅英明)"
-  pronouns          : # "he/him"
+  pronouns          : 
   bio               : "Ph.D. Student @ XJTU & SII. Researching AI Infra, Data Center Networks, and Power Systems."
   location          : "Shanghai & Xi'an, China"
   employer          : "Xi'an Jiaotong University"
@@ -26,10 +26,10 @@ author:
   # Academic websites
   academia          : 
   arxiv             : "https://arxiv.org/search/?query=Yingming+Mao&searchtype=author"
-  googlescholar     : "https://scholar.google.com/citations?user=8KoZ73UAAAAJ&hl=en" # 这是你原代码里的 ID，如有变更请修改
+  googlescholar     : "8KoZ73UAAAAJ" # 填入你的 ID 即可，插件会自动生成链接
   inspire-hep       : 
   impactstory       : 
-  orcid             : "https://orcid.org/my-orcid?orcid=0009-0002-3715-0961"
+  orcid             : "0009-0002-3715-0961" # 填入 ID 即可
   semantic          : 
   ssrn              : 
   pubmed            : 
@@ -47,7 +47,7 @@ author:
   stackoverflow     : 
 
   # Social media
-  zhihu             : # "在下"
+  zhihu             : 
   weibo             : 
   twitter           : 
 
@@ -60,7 +60,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   preprints:
-    title: 'Preprints & Working Papers' # 专门放置你的 NSDI/INFOCOM (arXiv) 论文
+    title: 'Preprints & Working Papers'
 
 # Site Settings
 teaser              : 
@@ -77,7 +77,7 @@ atom_feed:
   path              : 
 
 # SEO Related
-google_site_verification :
+google_site_verification : # 如果你有了 Google Search Console 的验证码，填在这里
 bing_site_verification   :
 
 # Analytics
@@ -206,6 +206,7 @@ timezone: Asia/Shanghai
 
 # Plugins
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
@@ -214,6 +215,7 @@ plugins:
   - jemoji
 
 whitelist:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate

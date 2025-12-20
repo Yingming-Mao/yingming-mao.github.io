@@ -45,7 +45,13 @@
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
+        {% assign scholar_id_or_url = author.googlescholar | strip %}
+        {% if scholar_id_or_url contains '://' %}
+          {% assign scholar_url = scholar_id_or_url %}
+        {% else %}
+          {% assign scholar_url = "https://scholar.google.com/citations?user=" | append: scholar_id_or_url %}
+        {% endif %}
+        <li><a href="{{ scholar_url }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>

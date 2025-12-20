@@ -19,14 +19,14 @@ author:
   pronouns          : 
   bio               : "Ph.D. Student @ XJTU & SII. Researching AI Infra, Data Center Networks, and Power Systems."
   location          : "Shanghai & Xi'an, China"
-  employer          : "Xi'an Jiaotong University"
+  employer          : "Xi'an Jiaotong University & Shanghai Innovative Institute"
   uri               : 
   email             : "maoyingming@sii.edu.cn" 
 
   # Academic websites
   academia          : 
   arxiv             : "https://arxiv.org/search/?query=Yingming+Mao&searchtype=author"
-  googlescholar     : "https://scholar.google.com/citations?user=8KoZ73UAAAAJ&hl=en&oi=sra" # 填入你的 ID 即可，插件会自动生成链接
+  googlescholar     : "8KoZ73UAAAAJ" # 填入你的 ID 即可，模板会自动生成链接
   inspire-hep       : 
   impactstory       : 
   orcid             : "0009-0002-3715-0961" # 填入 ID 即可

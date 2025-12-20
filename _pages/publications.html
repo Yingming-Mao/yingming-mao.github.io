@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  {% assign scholar_id_or_url = site.author.googlescholar | strip %}
+  {% if scholar_id_or_url contains '://' %}
+    {% assign scholar_url = scholar_id_or_url %}
+  {% else %}
+    {% assign scholar_url = "https://scholar.google.com/citations?user=" | append: scholar_id_or_url %}
+  {% endif %}
+  <div class="wordwrap">You can also find my articles on <a href="{{ scholar_url }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -31,6 +37,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 

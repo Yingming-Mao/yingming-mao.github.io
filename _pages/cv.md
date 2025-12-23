@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* **Ph.D. in Control Science and Engineering**, Xi'an Jiaotong University & Shanghai Institute of Intelligent Science and Technology, 2022 – Present
+* **Ph.D. in Control Science and Engineering**, Xi'an Jiaotong University & Shanghai Innovation Institute, 2022 – Present
 * **B.E. in Automation**, Xi'an Jiaotong University, 2018 – 2022
 
 Work Experience

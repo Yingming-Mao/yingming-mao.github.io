@@ -105,6 +105,13 @@
   ],
   "publications": [
     {
+      "name": "NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering",
+      "publisher": "arXiv preprint arXiv:2605.12862",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2605.12862",
+      "summary": "Physics-informed neural optimizer for risk-aware traffic engineering in WANs with correlated failure scenarios."
+    },
+    {
       "name": "A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network",
       "publisher": "arXiv preprint arXiv:2504.04027 (accepted by NSDI '26)",
       "releaseDate": "2025",

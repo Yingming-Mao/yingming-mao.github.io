@@ -10,6 +10,7 @@ I am a Ph.D. student at **Xi'an Jiaotong University (XJTU)** and **Shanghai Inno
 
 ## News
 
+* **2026-05-13** – **NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering** is available as an **arXiv preprint**. (First author)
 * **2025-12-10** – **Duonet: Learning the Duality-based Topology-Agnostic Update Operator for Lightweight Traffic Engineering in Changing Topologies** accepted to **NSDI'26** **(23rd USENIX NSDI, Seattle, May 4–6, 2026)**. Acceptance: 100/452 (22.1%). (Co-author)
 * **2025-12-08** – **ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks** accepted to **IEEE INFOCOM 2026 conference**. Acceptance: 329/1740 (18.9%). (First author)
 * **2025-07-14** – **A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network** accepted to **NSDI'26 (23rd USENIX NSDI, Seattle, May 4–6, 2026)**. Acceptance: 50/207 (24.2%). (First author)
@@ -29,9 +30,10 @@ I am a Ph.D. student at **Xi'an Jiaotong University (XJTU)** and **Shanghai Inno
 
 ### Conference Preprints (Networking & AI Infra)
 
-1. **Yingming Mao**, Qiaozhu Zhai, Ximeng Liu, Zhen Yao, Xia Zhu, and Yuzhou Zhou. "**A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network.**" *arXiv preprint arXiv:2504.04027 (Accepted by NSDI '26)*, 2025. [[Link]](https://arxiv.org/abs/2504.04027)
-2. **Yingming Mao**, Qiaozhu Zhai, Ximeng Liu, Xinchi Han, Fafan li, Shizhen Zhao, Yuzhou Zhou, Zhen Yao, and Xia Zhu. "**ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks.**" *arXiv preprint arXiv:2507.13717 (Accepted by INFOCOM '26)*, 2025. [[Link]](https://arxiv.org/abs/2507.13717)
-3. Ximeng Liu, Zhuoran Liu, **Yingming Mao**, Shizhen Zhao, Xinbing Wang, Yatao li. "**Duonet: Learning the Duality-based Topology-Agnostic Update Operator for Lightweight Traffic Engineering in Changing Topologies**" *(Accepted by NSDI '26)*, 2025.
+1. **Yingming Mao**, Ximeng Liu, Jingyi Cheng, Xiyuan Liu, Jiashuai Liu, Yike Liu, Zhen Yao, Yuzhou Zhou, Siyuan Feng, Qiaozhu Zhai, and Shizhen Zhao. "**NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering.**" *arXiv preprint arXiv:2605.12862*, 2026. [[Link]](https://arxiv.org/abs/2605.12862)
+2. **Yingming Mao**, Qiaozhu Zhai, Ximeng Liu, Zhen Yao, Xia Zhu, and Yuzhou Zhou. "**A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network.**" *arXiv preprint arXiv:2504.04027 (Accepted by NSDI '26)*, 2025. [[Link]](https://arxiv.org/abs/2504.04027)
+3. **Yingming Mao**, Qiaozhu Zhai, Ximeng Liu, Xinchi Han, Fafan li, Shizhen Zhao, Yuzhou Zhou, Zhen Yao, and Xia Zhu. "**ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks.**" *arXiv preprint arXiv:2507.13717 (Accepted by INFOCOM '26)*, 2025. [[Link]](https://arxiv.org/abs/2507.13717)
+4. Ximeng Liu, Zhuoran Liu, **Yingming Mao**, Shizhen Zhao, Xinbing Wang, Yatao li. "**Duonet: Learning the Duality-based Topology-Agnostic Update Operator for Lightweight Traffic Engineering in Changing Topologies**" *(Accepted by NSDI '26)*, 2025.
 
 ### Journal Articles (Power Systems)
 

@@ -6,6 +6,7 @@ permalink: /publication/2026-neurorisk
 excerpt: 'NeuroRisk is a physics-informed deep unrolled optimizer for risk-aware traffic engineering under correlated WAN failures.'
 date: 2026-05-13
 venue: 'arXiv'
+status: 'Available on'
 paperurl: 'https://arxiv.org/abs/2605.12862'
 ---
 

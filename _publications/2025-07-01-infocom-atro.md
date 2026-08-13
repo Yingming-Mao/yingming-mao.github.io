@@ -1,11 +1,12 @@
 ---
 title: "ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2025-infocom-atro
 excerpt: 'This paper presents ATRO, a fast algorithm designed for topology engineering in reconfigurable DCNs.'
 date: 2025-07-01
-venue: 'arXiv (Accepted by INFOCOM)'
+venue: "INFOCOM '26"
+status: 'Accepted by'
 paperurl: 'https://arxiv.org/abs/2507.13717'
 ---
 

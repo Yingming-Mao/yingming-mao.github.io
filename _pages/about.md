@@ -11,7 +11,7 @@ I am a Ph.D. student at **Xi'an Jiaotong University (XJTU)** and **Shanghai Inno
 ## News
 
 * **2026-08** – **AICCL: Pushing the Quality-Scalability-Flexibility Frontier in Collective Communication via Learning** accepted to **NSDI '27**. Acceptance: 66/355 (18.6%). (Co-author)
-* **2026-08-10** – **Robust Capacity Planning of Hydrogen-Based Remote Microgrids with a Co-Optimized Daily Service Window** accepted for publication in **Applied Energy**. (First author)
+* **2026-08-20** – **Robust Capacity Planning of Hydrogen-Based Remote Microgrids with a Co-Optimized Daily Service Window** published in **Applied Energy**. (First author) [[Publisher]](https://doi.org/10.1016/j.apenergy.2026.128686) [[Free access until Oct. 9, 2026]](https://authors.elsevier.com/c/1ne8e15eifJkdn)
 * **2026-08** – **Avoid Routing Polarization for OCS-based GPU Clusters** published online in the **Journal of Optical Communications and Networking (JOCN)**. (Co-author)
 * **2026-05-13** – **NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering** is available as an **arXiv preprint**. (First author)
 * **2025-12-10** – **Geminet: Learning the Duality-based Topology-Agnostic Update Operator for Lightweight Traffic Engineering in Changing Topologies** accepted to **NSDI '26** **(23rd USENIX NSDI, Seattle, May 4–6, 2026)**. Acceptance: 100/452 (22.1%). (Co-author)
@@ -42,7 +42,7 @@ I am a Ph.D. student at **Xi'an Jiaotong University (XJTU)** and **Shanghai Inno
 
 ### Journal Articles (Power Systems)
 
-1. **Yingming Mao**, Yuzhou Zhou, Qiaozhu Zhai, Jiexing Zhao, Xiaoyu Cao, Lei Wu, and Xiaohong Guan. "**Robust Capacity Planning of Hydrogen-Based Remote Microgrids with a Co-Optimized Daily Service Window.**" *Accepted by Applied Energy*, 2026. [[Preprint]](https://doi.org/10.2139/ssrn.6866492)
+1. **Yingming Mao**, Yuzhou Zhou, Qiaozhu Zhai, Jiexing Zhao, Xiaoyu Cao, Lei Wu, and Xiaohong Guan. "**Robust Capacity Planning of Hydrogen-Based Remote Microgrids with a Co-Optimized Daily Service Window.**" *Applied Energy*, Vol. 426, 128686, 2026. [[Publisher]](https://doi.org/10.1016/j.apenergy.2026.128686) [[Free access until Oct. 9, 2026]](https://authors.elsevier.com/c/1ne8e15eifJkdn) [[Preprint]](https://doi.org/10.2139/ssrn.6866492)
 2. Zhentong Shao, Qiaozhu Zhai, **Yingming Mao**, and Xiaohong Guan. "**A method for evaluating and improving linear power flow models in system with large fluctuations.**" *International Journal of Electrical Power & Energy Systems*, Vol. 145, 108635, 2023.
 3. **Yingming Mao**, Qiaozhu Zhai, Yuzhou Zhou, Jiexing Zhao, Zhentong Shao, Yanzhuo Yang, and Hui Hou. "**Data generation method for power system operation considering geographical correlations and actual operation characteristics.**" *Energy Reports*, Vol. 9, pp. 1480-1489, 2023.
 

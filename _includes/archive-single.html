@@ -52,7 +52,15 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
+    {% if post.publisherurl or post.shareurl or post.preprinturl %}
+      <p>
+        {% if post.publisherurl %}<a href="{{ post.publisherurl }}">Publisher</a>{% endif %}
+        {% if post.publisherurl and post.shareurl %} | {% endif %}
+        {% if post.shareurl %}<a href="{{ post.shareurl }}">{{ post.sharelabel | default: "Free Access" }}</a>{% endif %}
+        {% if post.preprinturl and post.publisherurl or post.preprinturl and post.shareurl %} | {% endif %}
+        {% if post.preprinturl %}<a href="{{ post.preprinturl }}">Preprint</a>{% endif %}
+      </p>
+    {% elsif post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
